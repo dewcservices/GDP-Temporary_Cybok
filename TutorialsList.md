@@ -4,6 +4,8 @@
 
 #### Python
 [tutorial](https://www.w3schools.com/python/default.asp)
+[Interractive coding problems and tips](https://codingbat.com/python)
+[Choosing a Framework](https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_choosing_a_better_framework.htm)
 
 #### Python Flask
 [tutorial](https://www.tutorialspoint.com/flask/index.htm)
@@ -13,6 +15,7 @@
 
 #### Python FastAPI
 [tutorial](https://www.tutorialspoint.com/fastapi/index.htm)
+[Create a REST API with FastAPI and MongoDB](https://www.makeuseof.com/rest-api-fastapi-mongodb/)
 
 #### Go
 [tutorial](https://www.w3schools.com/go/index.php)
@@ -28,6 +31,7 @@
 
 #### Java
 [tutorial](https://www.w3schools.com/java/default.asp)
+[Interractive coding problems and tips](https://codingbat.com/java)
 
 #### Java Springboot
 [tutorial](https://www.tutorialspoint.com/spring_boot/index.htm)
@@ -45,7 +49,7 @@
 [tutorial](https://www.w3schools.com/postgresql/index.php)
 
 #### PostGIS
-[tutorial](link)
+to do
 
 #### MongoDB
 [tutorial](https://www.w3schools.com/mongodb/index.php)
@@ -58,6 +62,7 @@
 
 #### ELK Stack
 [tutorial](https://www.tutorialspoint.com/logstash/logstash_elk_stack.htm)
+[tutorial](https://www.guru99.com/elk-stack-tutorial.html)
 
 #### language
 [tutorial](link)
