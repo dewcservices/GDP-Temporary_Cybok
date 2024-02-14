@@ -25,6 +25,7 @@
 
 #### Angular
 [Tutorial](https://angular.io/tutorial)  
+[Video Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko)
 
 #### Svelte
 [Tutorial](https://learn.svelte.dev/tutorial/welcome-to-svelte)  
